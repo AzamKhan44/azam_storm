@@ -35,8 +35,8 @@
 		</dependency>
 	</dependencies>
 	<scm>
-    <connection>scm:git:git@github.com:AzamKhan44/azam_storm.git</connection>
-    <url>scm:git:git@github.com:AzamKhan44/azam_storm.git</url>
-    <developerConnection>scm:git:git@github.com:AzamKhan44/azam_storm.git</developerConnection>
-  </scm>
+		<connection>scm:git:git@github.com:AzamKhan44/azam_storm.git</connection>
+		<url>scm:git:git@github.com:AzamKhan44/azam_storm.git</url>
+		<developerConnection>scm:git:git@github.com:AzamKhan44/azam_storm.git</developerConnection>
+	</scm>
 </project>
